@@ -1,5 +1,7 @@
-package com.jhh.tdd.chap2;
+package com.jhh.tdd;
 
+import com.jhh.tdd.chap2.PasswordStrength;
+import com.jhh.tdd.chap2.PasswordStrengthMeter;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.boot.test.context.SpringBootTest;
